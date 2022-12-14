@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<banqueService>
+    <comptes>
+        <code>10</code>
+        <solde>5900.0</solde>
+    </comptes>
+    <comptes>
+        <code>20</code>
+        <solde>11090.0</solde>
+    </comptes>
+    <comptes>
+        <code>15</code>
+        <solde>598.0</solde>
+    </comptes>
+</banqueService>
